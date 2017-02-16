@@ -103,9 +103,9 @@ hr {
 }
 
 .header-logo-container {
-    float: right;
-    height: 35px;
-    width: 35px;
+    float: left;
+    height: 50px;
+    width: 50px;
     line-height: 55px;
     margin-right: 20px;
 }
