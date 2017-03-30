@@ -112,6 +112,7 @@ cite {
 /* ------- Header ------- */
 .cp-branding {
 	padding: 2rem 0;
+
 	position: relative;
 	display: block;
 	background: #ebebeb;
@@ -130,6 +131,7 @@ cite {
 .cp-branding img {
 	max-height: 100px;
 	padding: 5px 0;
+	border-radius: 5px 20px 5px;
 }
 
 .cp-branding .header-ad {
